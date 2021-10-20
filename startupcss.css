@@ -1,0 +1,33 @@
+body,
+html{
+	
+
+ 	height: 100%;
+  	width: 100%;
+	background: url('beautiful-macaw-parrot-5120x2880_785956-rb-90.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.buffer{
+	height: 10rem;
+}
+h1{
+	color: #700000;
+
+}
+.coustmButton{
+	fornt-weight: 700px;
+	border-radius: 300px;
+	background-color: #CF5E00;
+	border-color: #CF5E00; 
+	transition: all 0.2s;
+
+}
+.coustmButton:hover{
+	background-color: #FF7706;
+	border-color: #FF7706;
+	transform: scale(1.025);
+}
